@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPICheking_the_type.dll"</Assembly>
+		<AddInId>29986A99-16EF-4BAD-AE69-902970723F05</AddInId>
+		<FullClassName>RevitAPICheking_the_type.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Проверка типа выбранного элемента приложение для Revit</Text>
+	</AddIn>
+</RevitAddIns>
